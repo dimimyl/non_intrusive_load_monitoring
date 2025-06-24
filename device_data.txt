@@ -1,0 +1,28 @@
+['agg', 'agg_act', 'wm', 'st', 'wh', 'fridge', 'dw', 'CofM', 'PC', 'mWave', 'ac' ] # house 1
+['wm', 'st', 'fridge', 'CofM', 'PC', 'mWave']   # house 1 new
+['agg', 'agg_act', 'st', 'wh', 'wm', 'fridge', 'dw', 'kettler', 'CofM', 'toaster', 'ac' ] # house 2
+['agg', 'agg_act', 'st', 'wh', 'wm', 'fridge', 'dw', 'kettler', 'CofM', 'toaster'] # house 2 new
+['agg', 'agg_act', 'wh', 'wm', 'st', 'fridge', 'ac']  # house 3
+['agg', 'agg_act', 'wh', 'st', 'wm', 'fridge', 'ac']   # house 4
+['agg', 'st', 'wh', 'dw', 'ac']    # house 5
+['agg', 'st', 'wh', 'dw']    # house 5 new
+['agg', 'st', 'wh', 'wm', 'ac']    # house 7
+['agg', 'st', 'wh', 'wm']    # house 7 new
+['agg', 'agg_act', 'st', 'wh', 'wm', 'kettler', 'CofM', 'fridge', 'ac']  # house 8
+['agg', 'agg_act', 'st',  'wm', 'fridge', 'kettler', 'CofM'] # house 8 new
+['agg', 'wh', 'st', 'wm', 'fridge']    # house 9
+['agg', 'agg_act', 'st', 'wh', 'wm', 'fridge']    # house 10
+['agg', 'agg_act', 'st', 'wh', 'wm', 'ac', 'fridge']    # house 12
+['agg', 'agg_act', 'st', 'wh', 'wm', fridge']    # house 12 new
+['agg', 'st', 'wh', 'wm', 'ac', 'fridge']    # house 13
+['agg', 'st', 'wh', 'wm', 'fridge']    # house 13 new
+['agg', 'agg_act', 'st', 'wh', 'wm', 'dw', 'ac', 'fridge']    # house 14
+['agg', 'agg_act', 'st', 'wh', 'wm', 'fridge']   # house 15
+['agg', 'agg_act', 'st', 'wh', 'ac', 'wm', 'fridge']   # house 16
+['agg', 'agg_act', 'st', 'wh', 'ac', 'wm', 'dw', 'fridge']  # house 17
+['agg', 'agg_act', 'st', 'wh', 'ac', 'wm', 'dw', 'fridge']  # house 18
+['agg', 'agg_act', 'st', 'wh', 'wm', 'fridge', 'dw'] # house18 new
+['agg', 'st', 'wh', 'dw', 'fridge', 'fryer', 'kettler', 'ac', 'tv'] # house 19
+
+
+['agg', 'agg_act','fridge', 'dryer', 'CofM', 'kettler', 'wm', 'freezer'] # eco 1
